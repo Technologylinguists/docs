@@ -14,7 +14,7 @@ hero:
       text: 联系我
       link: /contact
   image:
-    src: /logo.png
+    src: ./public/logo.png
     alt: 背景图
 features:
   - icon: 💻
